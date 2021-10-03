@@ -1,1 +1,1 @@
-# Mushroom-Classification
+# Mushroom-Classification-using-Naive-Bayes-Algorithm
